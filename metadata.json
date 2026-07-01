@@ -1,0 +1,6 @@
+{
+  "name": "Fort Construtora",
+  "description": "Landing page premium e moderna para a Fort Construtora. Apresenta serviços de construção, reformas, projetos e consultoria com um formulário inteligente integrado de orçamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
